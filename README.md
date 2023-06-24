@@ -1,4 +1,4 @@
-Welcome to the Full-Stack Web Application project! In this project, we will guide you through the process of building a responsive and dynamic web application using MongoDB, Express, React, and Node.js (MERN stack). By following this tutorial, you will learn how to create a full-stack web application that includes a front-end user interface built with React, a back-end API developed with Express and Node.js, and data storage using MongoDB.
+Welcome to the Full-Stack Web Application project! In this project, we will guide you through the process of building a responsive and dynamic web application using MongoDB, Express, React, and Node.js (MERN stack). You will learn how to create a full-stack web application that includes a front-end user interface built with React, a back-end API developed with Express and Node.js, and data storage using MongoDB.
 
 #Prerequisites
 To successfully complete this project, you should have a basic understanding of the following technologies:
